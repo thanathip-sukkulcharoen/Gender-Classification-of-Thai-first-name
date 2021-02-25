@@ -30,7 +30,7 @@ Please see "Summary Report.pdf" for explaination but it is written in Thai langu
 
 ## Installation
 1. Just git clone this repository or download it.
-2. I recommend using [Jupyter Notebook](https://jupyter.org/) or [Google colab](colab.research.google.com) to open code.
+2. I recommend using [Jupyter Notebook](https://jupyter.org/) or [Google colab](https://colab.research.google.com/) to open code.
 3. Make sure that "name_dataset.xlsx" is in the same folder as "SeniorProject.ipynb"
 ## Note
 * All evaluations are measured by using 10-fold cross validation except **every tuning model part** which measured by using 3-fold cross validation because the program was running too long.
