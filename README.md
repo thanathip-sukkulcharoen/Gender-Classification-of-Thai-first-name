@@ -36,4 +36,4 @@ Please see "Summary Report.pdf" for explaination but it is written in Thai langu
 ## Note
 * All evaluations are measured by using 10-fold cross validation except **every tuning model part** which measured by using 3-fold cross validation because the program was running too long.
 * There are **duplicate** names in dataset because I didn't collect names by myself. I developed a tool to help me collect these names but the tool is not perfect,it rarely collects the same name.
-* I didn't intend to push this code to github, so the code is look messy in some part because I just wanted quick results but I tried to organize the code as much as possible.
+* Originally,I didn't intend to push this code to github, so the code is look messy in some part because I just wanted quick results but I tried to organize the code as much as possible.
