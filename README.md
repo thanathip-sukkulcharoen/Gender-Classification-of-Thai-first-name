@@ -12,6 +12,7 @@ The accuracy of this model is 92.3% which evaluated by using 10-fold cross valid
 * [Demo](#demo)
 * [Features](#features)
 * [Prerequisite Library](#prerequisite-library)
+* [Methodology and Result](#methodology-and-result)
 * [Installation](#installation)
 * [Note](#note)
 ## Demo
